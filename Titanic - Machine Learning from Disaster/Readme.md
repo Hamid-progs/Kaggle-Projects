@@ -1,7 +1,7 @@
 # 🚢 Titanic - Machine Learning from Disaster
 
 [![View on Kaggle](https://img.shields.io/badge/View%20on-Kaggle-20BEFF?logo=kaggle)](https://www.kaggle.com/code/hamidrana/personality-randomforest-s5e7-notebook-97-32)  
-🔗 [Kaggle Competition Link](https://www.kaggle.com/competitions/playground-series-s5e7)
+🔗 [Kaggle Competition Link]( https://kaggle.com/competitions/titanic)
 
 ---
 
